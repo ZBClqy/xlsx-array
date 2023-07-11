@@ -22,9 +22,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "zbc",
-        },
-       
+            "name": "zbc"
+        }
     ],
     "scripts": {
         "check": [
