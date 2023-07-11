@@ -3051,8 +3051,9 @@ class Worksheet implements IComparable
                 }
             }
 
-            return $returnValue;
+
         }
+        return $returnValue;
 
     }
 
