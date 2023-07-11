@@ -62,7 +62,7 @@
         "psr/http-factory": "^1.0",
         "psr/simple-cache": "^1.0 || ^2.0 || ^3.0"
     },
-    "minimum-stabil":"stable",
+    "minimum-stabil":"dev",
     "require-dev": {
         "dealerdirect/phpcodesniffer-composer-installer": "dev-main",
         "dompdf/dompdf": "^1.0 || ^2.0",
