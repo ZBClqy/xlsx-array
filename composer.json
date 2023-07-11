@@ -1,6 +1,6 @@
 {
     "name": "xlsx/array",
-    "description": "PHPSpreadsheet - Read, Create and Write Spreadsheet documents in PHP - Spreadsheet engine",
+    "description": "xlsx/array - Read, Create and Write Spreadsheet documents in PHP - Spreadsheet engine",
     "keywords": [
         "PHP",
         "OpenXML",
@@ -85,12 +85,6 @@
     "autoload": {
         "psr-4": {
             "xlsx\\array\\": "src/PhpSpreadsheet"
-        }
-    },
-    "autoload-dev": {
-        "psr-4": {
-            "PhpOffice\\PhpSpreadsheetTests\\": "tests/PhpSpreadsheetTests",
-            "PhpOffice\\PhpSpreadsheetInfra\\": "infra"
         }
     }
 }
